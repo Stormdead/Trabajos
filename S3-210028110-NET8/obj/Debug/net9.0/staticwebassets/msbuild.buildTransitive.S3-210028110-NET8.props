@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\S3-210028110-NET8.props" />
+</Project>
