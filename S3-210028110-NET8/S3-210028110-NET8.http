@@ -1,0 +1,6 @@
+@S3_210028110_NET8_HostAddress = http://localhost:5127
+
+GET {{S3_210028110_NET8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
